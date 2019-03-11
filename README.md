@@ -4,3 +4,5 @@ A simple Raspberry Pi fan controller using Node-Red
 The 5V DC fan is controled with a MOSFET and turned on and off with GPIO17
 
 A tri-colour LED is connected to GPIO24 and GPIO25, but not needed for the temperature control
+
+Updated layout with a SOT-23 MOSFET and a Fan on LED.
